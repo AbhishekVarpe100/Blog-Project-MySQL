@@ -1,0 +1,37 @@
+.border{
+    background-color: black;
+}
+.border:hover{
+    background-color:rgb(28, 26, 26);
+}   
+
+.heading{
+    background-image: linear-gradient(to top,rgb(53, 50, 147),rgb(234, 216, 234));
+    border-radius: 0px 0px 500px 100px;
+
+}
+.addproduct{
+    padding: 30px;
+    margin-bottom: 3cm;
+    background-image: linear-gradient(to top,rgb(73, 186, 165),green);
+    border-radius: 1cm 0px 1cm 0px;
+}
+
+.myimagetemplate1{
+    border-radius: 10cm 0px 0cm 0px;
+   
+}
+.myimagetemplate2{
+    border-radius: 0cm 0px 10cm 0px;
+    margin: 5px;
+}
+.myimagetemplate1:hover{
+    transform: scale(1.02);
+}
+.myimagetemplate2:hover{
+    transform: scale(1.02);
+}
+.classofgradient{
+    background-image: linear-gradient(to top,gray,black);
+    color: white;
+}
